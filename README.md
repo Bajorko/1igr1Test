@@ -9,3 +9,4 @@ Dzień Dobry tutaj Karol
 ## Oto ja K. Rusin.
 
 1. Lekcja prawie za nami
+2. github jest ekstra
